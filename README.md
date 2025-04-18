@@ -1,2 +1,2 @@
 # pemogramanweb
-Pemograman Web Project 
+Latihan Pemograman Web Project 
